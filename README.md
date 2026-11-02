@@ -4,12 +4,13 @@ Predicting Property Profitability & Future Value
 
 
 
-## Live application and project handbook
+## Python project handbook
 
-- **Public Streamlit application:** https://real-estate-investment-advisor-8z7ppsrhfksyfdihc3f5e4.streamlit.app/
-- **Project handbook:** [Read the full project handbook](./docs/PROJECT_HANDBOOK.md)
+The primary project handbook is an executable Jupyter notebook with explanations, code demonstrations, tables and EDA/model-comparison graphs:
 
-The handbook documents the project problem statement, business use cases, phase-wise methodology, data flow, dataset fields, target-label logic, 20-question EDA guide, models, recorded evaluation results, MLflow, Streamlit deployment, setup steps, deliverables and limitations.
+- [Real Estate Investment Advisor Python Handbook (.ipynb)](./Real_Estate_Investment_Advisor_Python_Handbook.ipynb)
+
+**Live application:** https://real-estate-investment-advisor-8z7ppsrhfksyfdihc3f5e4.streamlit.app/
 
 ## Overview
 
