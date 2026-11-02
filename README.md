@@ -2,6 +2,15 @@
 
 Predicting Property Profitability & Future Value
 
+
+
+## Live application and project handbook
+
+- **Public Streamlit application:** https://real-estate-investment-advisor-8z7ppsrhfksyfdihc3f5e4.streamlit.app/
+- **Project handbook:** [Read the full project handbook](./docs/PROJECT_HANDBOOK.md)
+
+The handbook documents the project problem statement, business use cases, phase-wise methodology, data flow, dataset fields, target-label logic, 20-question EDA guide, models, recorded evaluation results, MLflow, Streamlit deployment, setup steps, deliverables and limitations.
+
 ## Overview
 
 This project is an educational real-estate analytics application for exploring two property scenarios:
